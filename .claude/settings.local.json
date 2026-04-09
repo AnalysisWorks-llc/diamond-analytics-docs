@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(printf '\\\\n\\\\n\\\\n\\\\n\\\\n')",
+      "Bash(npx vitepress:*)",
+      "Bash(mkdir -p /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs/.vitepress)",
+      "Bash(mkdir -p /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs/docs/public)",
+      "Bash(mkdir -p /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs/docs/getting-started)",
+      "Bash(mkdir -p /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs/docs/scoring-games)",
+      "Bash(mkdir -p /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs/docs/analytics)",
+      "Bash(npm run:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs config user.email \"chris@analysisworks.llc\")",
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs config user.name \"Chris\")",
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs add .)",
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs commit -m \"Initial Diamond Analytics documentation site\")"
+    ]
+  }
+}
