@@ -45,7 +45,7 @@ Yes. Go to Settings → Manage Subscription to upgrade, downgrade, or cancel thr
 You retain access to data entry. Analytics, training plans, report cards, and lineup builders are paused until you subscribe. Your data is never deleted.
 
 **Can I get a refund?**
-Contact support at support@diamondanalytics.app within 7 days of a charge for refund consideration.
+Contact support at support@analysisworks-llc.com within 7 days of a charge for refund consideration.
 
 ## Technical
 
