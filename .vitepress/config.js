@@ -18,17 +18,27 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/getting-started/' },
-      { text: 'Scoring Games', link: '/scoring-games/' },
-      { text: 'Voice Logging', link: '/voice-logging/' },
+      {
+        text: 'Scoring & Logging',
+        items: [
+          { text: 'Scoring Games', link: '/scoring-games/' },
+          { text: 'Voice Logging', link: '/voice-logging/' }
+        ]
+      },
       { text: 'Analytics', link: '/analytics/' },
-      { text: 'Training Plans', link: '/training/' },
-      { text: 'Coach Notes', link: '/coach-notes/' },
-      { text: 'Report Cards', link: '/report-cards/' },
-      { text: 'Schedule', link: '/schedule/' },
+      {
+        text: 'Development',
+        items: [
+          { text: 'Training Plans', link: '/training/' },
+          { text: 'Coach Notes', link: '/coach-notes/' },
+          { text: 'Report Cards', link: '/report-cards/' }
+        ]
+      },
       {
         text: 'More',
         items: [
           { text: 'Roster', link: '/roster/' },
+          { text: 'Schedule & Tournaments', link: '/schedule/' },
           { text: 'Lineup Builders', link: '/lineup/' },
           { text: 'FAQ', link: '/faq/' }
         ]
