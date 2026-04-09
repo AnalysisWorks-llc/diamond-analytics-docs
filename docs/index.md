@@ -52,4 +52,16 @@ features:
     details: Generate shareable player development reports with stats, charts, mechanics assessments, and coach comments.
     link: /report-cards/
     linkText: Learn more
+
+  - icon: 📅
+    title: Schedule and Tournaments
+    details: Schedule games, manage tournament brackets, record results, and track your season record and run differential.
+    link: /schedule/
+    linkText: Learn more
+
+  - icon: 👥
+    title: Roster Management
+    details: Build and maintain your roster, manage player profiles and positions, and control team access for coaches and parents.
+    link: /roster/
+    linkText: Learn more
 ---
