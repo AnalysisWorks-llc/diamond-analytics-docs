@@ -33,14 +33,14 @@ Check that innings pitched is being recorded correctly in the pitching logger. E
 ## Account Issues
 
 **I cannot log in**
-Try resetting your password from the login screen. If the issue persists contact support at support@diamondanalytics.app.
+Try resetting your password from the login screen. If the issue persists contact support at support@analysisworks-llc.com.
 
 **I was invited to a team but cannot see it**
 Ensure you signed in with the same email address the invite was sent to. If you created a new account check that you used the invite link not the main sign-up page.
 
 ## Contact Support
 
-For issues not covered here contact support at **support@diamondanalytics.app**.
+For issues not covered here contact support at **support@analysisworks-llc.com**.
 
 When contacting support please include:
 - Your email address
