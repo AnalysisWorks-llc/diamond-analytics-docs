@@ -19,7 +19,20 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/getting-started/' },
       { text: 'Scoring Games', link: '/scoring-games/' },
+      { text: 'Voice Logging', link: '/voice-logging/' },
       { text: 'Analytics', link: '/analytics/' },
+      { text: 'Training Plans', link: '/training/' },
+      { text: 'Coach Notes', link: '/coach-notes/' },
+      { text: 'Report Cards', link: '/report-cards/' },
+      { text: 'Schedule', link: '/schedule/' },
+      {
+        text: 'More',
+        items: [
+          { text: 'Roster', link: '/roster/' },
+          { text: 'Lineup Builders', link: '/lineup/' },
+          { text: 'FAQ', link: '/faq/' }
+        ]
+      },
       { text: 'diamondanalytics.app', link: 'https://diamondanalytics.app' }
     ],
 
@@ -112,6 +125,16 @@ export default defineConfig({
             { text: 'AI note processing', link: '/coach-notes/ai-processing' },
             { text: 'Voice notes', link: '/coach-notes/voice-notes' },
             { text: 'Connecting to training plans', link: '/coach-notes/training-plans' }
+          ]
+        }
+      ],
+      '/roster/': [
+        {
+          text: 'Roster',
+          items: [
+            { text: 'Overview', link: '/roster/' },
+            { text: 'Managing your roster', link: '/roster/managing-roster' },
+            { text: 'Player profiles', link: '/roster/player-profiles' }
           ]
         }
       ],

@@ -18,7 +18,10 @@
       "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs config user.email \"chris@analysisworks.llc\")",
       "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs config user.name \"Chris\")",
       "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs add .)",
-      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs commit -m \"Initial Diamond Analytics documentation site\")"
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs commit -m \"Initial Diamond Analytics documentation site\")",
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs rm -r --cached .vitepress/dist node_modules)",
+      "Bash(git -C /c/Users/chris/Desktop/AnalysisWorks/diamond-analytics-docs status --short)",
+      "Bash(git:*)"
     ]
   }
 }
